@@ -1,6 +1,7 @@
 # user-management-server
 
 Springboot application with CRUD opertation APIs
+IDE: IntelliJ IDEA
 Database: MYSQL
 
 Update application.properties according to your requirement.
