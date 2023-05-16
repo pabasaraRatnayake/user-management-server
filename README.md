@@ -1,10 +1,13 @@
 # user-management-server
 
-Springboot application with CRUD opertation APIs
-IDE: IntelliJ IDEA
-Database: MYSQL
+Springboot application with CRUD opertation APIs using Springboot 
 
-Update application.properties according to your requirement.
+Database: MYSQL
+Testing tool: Postman
+IDE: IntelliJ IDEA
+
+
+Update application.properties according to your personal configurations.
 
 spring.jpa.hibernate.ddl-auto=update
 spring.datasource.url=jdbc:mysql://localhost:3306/scema_name
