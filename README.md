@@ -3,6 +3,7 @@
 Springboot application with CRUD opertation APIs using Springboot 
 
 Database: MYSQL
+Springboot version: 3.0.6
 Testing tool: Postman
 IDE: IntelliJ IDEA
 
